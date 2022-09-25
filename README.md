@@ -1,4 +1,4 @@
 #
-<center>
+<div align="center">
 <img src="./assets/imgs/banner.png"> 
-<h2>Atrenalin</h2>
+<h1>Atrenalin</h1>
