@@ -1,2 +1,4 @@
-# Atrenalin
-Atrenalin — Увлекательный Discord сервер для приятного общения и новых знакомств, множество конкурсов и мероприятий. 
+#
+<center>
+<img src="./assets/imgs/banner.png"> 
+<h2>Atrenalin</h2>
